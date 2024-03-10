@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.navlogo{
+  text-align: left;
+  font-weight: 600;
+}
+.main-bg{
+  height: 300px;
+  background-image: url(./main-bg.png);
+  background-size: cover;
+  background-position: center;
+
+}
+.link{
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+.start{
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.end{
+  opacity: 1;
+}
