@@ -65,7 +65,7 @@ function App() {
                 
               }
               return 0;
-            });
+            }); //ㅇㅇㅇ
             setShoes(copyshoes);
           }}>정렬</button>
           <Nav className="me-auto">
